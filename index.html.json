@@ -1,0 +1,334 @@
+[
+  {
+    "description": "Como tester.\nQuero aprender encontrar e utilizar os elementos de uma pagina teste.\nPara treinar o cypress.",
+    "keyword": "Feature",
+    "name": "Validar elementos - Parte 01",
+    "line": 1,
+    "id": "validar-elementos---parte-01",
+    "tags": [],
+    "uri": "ValidaElementos_01.feature",
+    "elements": [
+      {
+        "id": "validar-elementos---parte-01;validar-texto-da-pagina.",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Validar texto da pagina.",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 922000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "valido se existe o texto This is sample text, na terceira linha.",
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validar-elementos---parte-01;validar-o-link",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Validar o link",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 360000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "clico no link This is a link",
+            "result": {
+              "status": "passed",
+              "duration": 8214000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "valido se acessou o site javatpoint.com",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validar-elementos---parte-01;validar-o-campo-texto-e-o-button-que-muda-de-cor-ao-ser-clicado",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Validar o campo texto e o button que muda de cor ao ser clicado",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 17,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 777000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 18,
+            "name": "escrevo o texto Passei Por aqui! no campo text.",
+            "result": {
+              "status": "passed",
+              "duration": 367000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "clico no button submit",
+            "result": {
+              "status": "passed",
+              "duration": 88000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "valido se esse button ficou da cor verde",
+            "result": {
+              "status": "passed",
+              "duration": 11000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "validar-elementos---parte-01;validar-os-elementos-radiobox,-ckeckbox,-select-e-o-duplo-clique-no-button",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "Validar os elementos RadioBox, CkeckBox, select e o duplo clique no button",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 513000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 24,
+            "name": "marco a opcao Male no RadioBox",
+            "result": {
+              "status": "passed",
+              "duration": 87000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "marco a opcao Automation Testing no CkeckBox",
+            "result": {
+              "status": "passed",
+              "duration": 106000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 26,
+            "name": "marco seleciono a opcao Database Testing no select",
+            "result": {
+              "status": "passed",
+              "duration": 153000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 27,
+            "name": "clico no button Double-click to generate alert box",
+            "result": {
+              "status": "passed",
+              "duration": 100000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "valido se o texto do alert e igual a hi, JavaTpoint Testing",
+            "result": {
+              "status": "passed",
+              "duration": 2000000
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "description": "Como tester.\nQuero aprender encontrar e utilizar os elementos de uma pagina teste.\nPara treinar o cypress.",
+    "keyword": "Feature",
+    "name": "Valida elementos - Parte 02",
+    "line": 1,
+    "id": "valida-elementos---parte-02",
+    "tags": [],
+    "uri": "ValidaElementos_02.feature",
+    "elements": [
+      {
+        "id": "valida-elementos---parte-02;validar-clique-simples-no-button-generate-alert-box",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Validar clique simples no button Generate Alert Box",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 12179000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "realizo um clique simples no button Generate Alert Box",
+            "result": {
+              "status": "passed",
+              "duration": 95000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "valido se o texto do alert e igual a hi, JavaTpoint Testing",
+            "result": {
+              "status": "passed",
+              "duration": 3000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "valida-elementos---parte-02;validar-clique-simples-no-button-generate-confirm-box",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Validar clique simples no button Generate Confirm Box",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 13,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 365000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 14,
+            "name": "realizo um clique simples no button Generate Confirm Box",
+            "result": {
+              "status": "passed",
+              "duration": 105000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 15,
+            "name": "valido se o texto que aparece na pagina SampleTestePage e igual a You pressed OK!",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "valida-elementos---parte-02;validar-a-acao-do-draganddrop",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "Validar a acao do DragAndDrop",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "acesso a pagina SampleTestePage.",
+            "result": {
+              "status": "passed",
+              "duration": 490000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "Movo a imagem JavaTPoint para dentro da div targetDiv",
+            "result": {
+              "status": "passed",
+              "duration": 192000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "valido se a imagem foi inserida com sucesso",
+            "result": {
+              "status": "passed",
+              "duration": 32000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
