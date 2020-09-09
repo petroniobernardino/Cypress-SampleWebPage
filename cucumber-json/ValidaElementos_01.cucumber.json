@@ -23,7 +23,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 922000000
+              "duration": 841000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "valido se existe o texto This is sample text, na terceira linha.",
             "result": {
               "status": "passed",
-              "duration": 25000000
+              "duration": 40000000
             }
           }
         ]
@@ -53,7 +53,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 360000000
+              "duration": 342000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "clico no link This is a link",
             "result": {
               "status": "passed",
-              "duration": 8214000000
+              "duration": 10478000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "valido se acessou o site javatpoint.com",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 55000000
             }
           }
         ]
@@ -93,7 +93,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 777000000
+              "duration": 776000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "escrevo o texto Passei Por aqui! no campo text.",
             "result": {
               "status": "passed",
-              "duration": 367000000
+              "duration": 356000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "clico no button submit",
             "result": {
               "status": "passed",
-              "duration": 88000000
+              "duration": 86000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "valido se esse button ficou da cor verde",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 15000000
             }
           }
         ]
@@ -143,7 +143,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 513000000
+              "duration": 298000000
             }
           },
           {
@@ -153,7 +153,7 @@
             "name": "marco a opcao Male no RadioBox",
             "result": {
               "status": "passed",
-              "duration": 87000000
+              "duration": 90000000
             }
           },
           {
@@ -163,7 +163,7 @@
             "name": "marco a opcao Automation Testing no CkeckBox",
             "result": {
               "status": "passed",
-              "duration": 106000000
+              "duration": 91000000
             }
           },
           {
@@ -173,7 +173,7 @@
             "name": "marco seleciono a opcao Database Testing no select",
             "result": {
               "status": "passed",
-              "duration": 153000000
+              "duration": 138000000
             }
           },
           {
@@ -183,7 +183,7 @@
             "name": "clico no button Double-click to generate alert box",
             "result": {
               "status": "passed",
-              "duration": 100000000
+              "duration": 95000000
             }
           },
           {

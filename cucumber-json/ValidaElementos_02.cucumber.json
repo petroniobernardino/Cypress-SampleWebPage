@@ -23,7 +23,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 12179000000
+              "duration": 14074000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "realizo um clique simples no button Generate Alert Box",
             "result": {
               "status": "passed",
-              "duration": 95000000
+              "duration": 120000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 365000000
+              "duration": 326000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "realizo um clique simples no button Generate Confirm Box",
             "result": {
               "status": "passed",
-              "duration": 105000000
+              "duration": 87000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "acesso a pagina SampleTestePage.",
             "result": {
               "status": "passed",
-              "duration": 490000000
+              "duration": 388000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "Movo a imagem JavaTPoint para dentro da div targetDiv",
             "result": {
               "status": "passed",
-              "duration": 192000000
+              "duration": 164000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "valido se a imagem foi inserida com sucesso",
             "result": {
               "status": "passed",
-              "duration": 32000000
+              "duration": 8000000
             }
           }
         ]
